@@ -1,0 +1,12 @@
+* body
+{ background:#ddd; 
+font-family:"Raleway"; 
+background-color: black; 
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: cover; 
+} 
+h1
+{ 
+	color: red;
+		}

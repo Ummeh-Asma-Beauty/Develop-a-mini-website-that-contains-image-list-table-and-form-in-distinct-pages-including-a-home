@@ -1,0 +1,9 @@
+* body
+{ background:#ddd; font-family:"Raleway";
+background-image: url('h1.jpg');
+background-repeat: no-repeat; 
+background-attachment: fixed;
+background-size: cover; color: yellow;
+} h1{ color:black;
+} h2{ color:white;
+}
